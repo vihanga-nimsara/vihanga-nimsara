@@ -1,11 +1,11 @@
-Vihanga Nimsara 🌑
+# Vihanga Nimsara 🌑
 
 software engineering undergraduate at SLIIT
 designer • developer • builder
 
 ──── ✦ ────
 
-about
+## About
 
 Curious brain 🧠 making clean & chill digital stuff.
 Big fan of learning, growing, and keeping things simple.
@@ -13,7 +13,7 @@ Always poking around new tools, tech, and random cool ideas.
 
 ──── ✦ ────
 
-currently ⚡
+## Currently ⚡
 
 • studying Software Engineering at SLIIT
 • learning Flutter & mobile development
@@ -22,13 +22,13 @@ currently ⚡
 
 ──── ✦ ────
 
-stack 🛠
+## stack 🛠
 
 Flutter · Dart · HTML · CSS · JavaScript · Git
 
 ──── ✦ ────
 
-connect 🤍
+## Connect 🤍
 
 portfolio — [https://vihangaart.space/]
 linkedin — [https://www.linkedin.com/in/vihanganimsara/]
