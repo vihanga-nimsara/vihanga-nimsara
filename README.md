@@ -1,16 +1,31 @@
-## Hi there 👋
+# Vihanga Nimsara 🌑
 
-<!--
-**vihanga-nimsara/vihanga-nimsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software engineering undergraduate   
+designer • developer • builder  
 
-Here are some ideas to get you started:
+──── ✦ ────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about
+
+curious mind crafting clean and intentional digital experiences.  
+focused on growth, simplicity, and continuous improvement.
+
+──── ✦ ────
+
+## currently ⚡
+
+• learning flutter & mobile development 
+• exploring modern web technologies
+• building creative & SaaS experiments  
+
+──── ✦ ────
+
+## stack 🛠
+
+flutter · dart · html · css · javascript · git  
+
+──── ✦ ────
+
+## connect 🤍
+
+portfolio — [yourlink.com  ](https://vihangaart.space/)
