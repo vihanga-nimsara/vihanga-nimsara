@@ -24,7 +24,12 @@ Always poking around new tools, tech, and random cool ideas.
 
 ## stack 🛠
 
-Flutter · Dart · HTML · CSS · JavaScript · Git
+![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) Flutter · 
+![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg) Dart · 
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML · 
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS · 
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript · 
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git
 
 ──── ✦ ────
 
