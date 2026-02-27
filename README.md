@@ -3,15 +3,11 @@
 software engineering undergraduate at SLIIT <br>
 designer • developer • builder <br>
 
-──── ✦ ────
-
 ## About
 
 Curious brain 🧠 making clean & chill digital stuff. <br>
 Big fan of learning, growing, and keeping things simple. <br>
 Always poking around new tools, tech, and random cool ideas. <br>
-
-──── ✦ ────
 
 ## Currently ⚡
 
@@ -19,8 +15,6 @@ Always poking around new tools, tech, and random cool ideas. <br>
 • learning Flutter & mobile development <br>
 • exploring modern web technologies <br>
 • building creative & SaaS experiments
-
-──── ✦ ────
 
 ## stack 🛠
 
@@ -30,8 +24,6 @@ Always poking around new tools, tech, and random cool ideas. <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git  
-
-──── ✦ ────
 
 ## Connect 🤍
 
