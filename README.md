@@ -1,15 +1,15 @@
-# Vihanga Nimsara 🌑
+# Vihanga Nimsara
 
 software engineering undergraduate at SLIIT <br>
 designer • developer • builder <br>
 
 ## About
 
-Curious brain 🧠 making clean & chill digital stuff. <br>
+Curious brain making clean & chill digital stuff. <br>
 Big fan of learning, growing, and keeping things simple. <br>
 Always poking around new tools, tech, and random cool ideas. <br>
 
-## Currently ⚡
+## Currently
 
 • studying Software Engineering at SLIIT <br>
 • learning Flutter & mobile development <br>
