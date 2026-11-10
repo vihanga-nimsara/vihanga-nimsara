@@ -1,1 +1,1 @@
-<img src="https://i.pinimg.com/originals/54/d7/30/54d7302c08408339574b95b9a911c51a.gif" width="100%" alt="GIF">
+<img src="https://i.pinimg.com/originals/1d/ea/8d/1dea8d0f2dab4a24e262fae44d66c3fb.gif" width="100%" alt="GIF">
